@@ -1,0 +1,1 @@
+This is README for PythonGame - a project created for learning Udemy course.
